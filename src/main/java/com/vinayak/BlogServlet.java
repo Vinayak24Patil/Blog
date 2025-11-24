@@ -1,4 +1,4 @@
-package com.example;
+package com.vinayak;
 
 import java.io.IOException;
 import jakarta.servlet.ServletException;
